@@ -1,2 +1,0 @@
-# MengenalKemasanProduk
-Tugas Akhir DMI
